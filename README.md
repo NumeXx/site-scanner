@@ -12,7 +12,7 @@
 
 ## How To Use
 > [![win](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NumeXx)
-  > Download This Source
-  > Extract The Zip File
-  > Install the requirements
-  > than run **python site-scanner.py**
+  - Download This Source
+  - Extract The Zip File
+  - Install the requirements
+  - than run **python site-scanner.py**
