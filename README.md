@@ -20,7 +20,7 @@
 > [![ter](https://img.shields.io/badge/termux-000000?style=for-the-badge&logo=termux&logoColor=white)](https://github.com/NumeXx)
   - pkg install git
   - pkg install python
-  - git clone **https://github.com/NumeXx/site-scanner/
+  - git clone **https://github.com/NumeXx/site-scanner/**
   - cd site-scanner
   - pip3 install colorama
   - pip3 install requests
